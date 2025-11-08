@@ -1,5 +1,5 @@
 ### Description
-- This project demonstrates how to write and run unit tests in Python using the unittest framework.
+- how to write and run unit tests in Python using the unittest framework.
 - It includes two simple math functions — add and subtract — along with test cases to verify normal behavior, edge cases, and invalid inputs.|
 
 ✅ Basic math functions (add, subtract)
